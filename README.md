@@ -1,3 +1,15 @@
+# **Precursor to Graphs and Networks**
+
+https://www.youtube.com/watch?v=a6Wh6-6toiQ
+
+https://www.youtube.com/watch?v=mm2u9RKwgsY
+
+https://www.youtube.com/watch?v=Gs5YvZL_3ig
+
+https://www.youtube.com/watch?v=FvrRrZa7ekU
+
+https://www.youtube.com/watch?v=ECJ2DdPhMxI
+
 # GraphNeuralNetworks
 
 https://www.youtube.com/watch?v=fOctJB4kVlM&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=2
