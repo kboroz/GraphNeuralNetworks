@@ -10,6 +10,14 @@ https://www.youtube.com/watch?v=FvrRrZa7ekU
 
 https://www.youtube.com/watch?v=ECJ2DdPhMxI
 
+## Watch the video(s):
+
+https://www.youtube.com/watch?v=AStrI3FhMWg
+
+## Additional video(s) - not mandatory:
+
+https://www.youtube.com/playlist?list=PLFE3A39A431A72D19
+
 # GraphNeuralNetworks
 
 https://www.youtube.com/watch?v=fOctJB4kVlM&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=2
