@@ -1,3 +1,7 @@
+https://distill.pub/2021/understanding-gnns/
+
+https://distill.pub/2021/gnn-intro/
+
 # **Precursor to Graphs and Networks**
 
 https://www.youtube.com/watch?v=a6Wh6-6toiQ
