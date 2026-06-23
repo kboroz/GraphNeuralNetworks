@@ -2,6 +2,16 @@ https://distill.pub/2021/understanding-gnns/
 
 https://distill.pub/2021/gnn-intro/
 
+# Temporal Graphs
+
+https://github.com/KimMeen/Awesome-GNN4TS
+
+https://towardsdatascience.com/time-series-isnt-enough-how-graph-neural-networks-change-demand-forecasting/
+
+https://arxiv.org/abs/2307.03759
+
+https://www.sciencedirect.com/science/article/pii/S0952197625003045
+
 # **Precursor to Graphs and Networks**
 
 https://www.youtube.com/watch?v=a6Wh6-6toiQ
